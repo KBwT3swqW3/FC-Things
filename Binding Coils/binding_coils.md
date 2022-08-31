@@ -11,6 +11,10 @@
 
 # FAQs
 ## Requirements/How to Unlock
+To partake in the event all that's required is that you have unlocked the ARR raid
+`The Binding Coil of Bahamut - Turn 1` the steps to accomplish that are outlined
+in the steps below
+
 ### Finish A Realm Reborn
 To unlock the Binding Coils of Bahamut you must first Complete the main ARR main
 story quest line `The Ultimate Weapon`, this is the final quest in the base ARR
